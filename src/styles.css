@@ -1,0 +1,18 @@
+/* Node.module.css */
+
+.node {
+    background-color: #f8f9fa; /* Light gray background */
+    border: 1px solid #ced4da; /* Light gray border */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    padding: 16px; /* Padding inside the node */
+    margin-bottom: 16px; /* Spacing between nodes */
+  }
+  
+  .node-label {
+    font-weight: bold; /* Bold font for node labels */
+    margin-bottom: 8px; /* Spacing below the label */
+  }
+  
+
+  
